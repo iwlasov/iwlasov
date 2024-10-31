@@ -20,16 +20,16 @@
 - [Разработка телеграм бота с редактированием изображений](https://github.com/iwlasov/Telegram_Image_Editor_Bot)
 
 
-### Сертификаты и дипломы
-- [Python Base](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/certificatePythonBase.pdf)
-- [Git](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/certificateGit.pdf)
-- [OOP & API](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/certificateOOPandWorkwithAPI.pdf)
-- [DataBase for Python Developer](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/certificateDataBaseforPythonDeveloper.pdf)
-- [Django Base](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/certificateDjangoBase.pdf)
-- [Python Developer](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/certificatePythonDeveloperFromScratch.pdf)
+### Сертификаты и дипломы:
+- [Python Base](https://github.com/iwlasov/iwlasov/blob/main/certificatePythonBase.pdf)
+- [Git](https://github.com/iwlasov/iwlasov/blob/main/certificateGit.pdf)
+- [OOP & API](https://github.com/iwlasov/iwlasov/blob/main/certificateOOPandWorkwithAPI.pdf)
+- [DataBase for Python Developer](https://github.com/iwlasov/iwlasov/blob/main/certificateDataBaseforPythonDeveloper.pdf)
+- [Django Base](https://github.com/iwlasov/iwlasov/blob/main/certificateDjangoBase.pdf)
+- [Python Developer](https://github.com/iwlasov/iwlasov/blob/main/certificatePythonDeveloperFromScratch.pdf)
 
 
-### [Контакты]
+### Контакты: 
  - WhatsApp +79119315985
  - Mail iwlasov@gmail.com
  - [Резюме](https://spb.hh.ru/resume/0e95b994ff0ce9db5e0039ed1f514f536f3846)
